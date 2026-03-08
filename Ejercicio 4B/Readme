@@ -1,0 +1,38 @@
+# ⚔️ Ejercicio de Programación Orientada a Objetos (POO)
+## Sistema de Aventureros
+
+---
+
+# 📌 Descripción
+
+Este ejercicio tiene como objetivo aplicar el concepto de **herencia en Programación Orientada a Objetos (POO)** utilizando Python.
+
+Se crea una **clase base llamada `Aventurero`**, que contiene atributos y métodos comunes.  
+Posteriormente se crean **clases hijas (`Guerrero`, `Mago` y `Arquero`)** que heredan de la clase base y sobrescriben un método para mostrar su habilidad especial.
+
+---
+
+# 🎯 Objetivo
+
+El programa permite:
+
+- Crear una clase base `Aventurero`
+- Crear clases hijas con habilidades diferentes
+- Aplicar el concepto de **herencia**
+- Sobrescribir métodos en las clases hijas
+
+--
+
+# 📁 Estructura del Proyecto
+Aventurero
+├── nombre
+├── nivel
+├── presentarse()
+└── usar_habilidad()
+
+## 📌 Conclusión
+Este ejercicio permitió aplicar los principios básicos de la **Programación Orientada a Objetos (POO)** en Python, utilizando clases, atributos, métodos y herencia. 
+
+A través de la clase base `Aventurero` y las clases hijas `Guerrero`, `Mago` y `Arquero`, se pudo observar cómo diferentes clases pueden compartir características en común y al mismo tiempo tener comportamientos específicos. 
+
+El uso de la herencia facilita la **organización del código, la reutilización de funciones y la creación de programas más estructurados**, lo cual es una ventaja importante al desarrollar sistemas más grandes.
