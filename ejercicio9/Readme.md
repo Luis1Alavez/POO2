@@ -1,4 +1,4 @@
-# 📂 Gestión de Archivos y Metadatos en Python
+# 📂 Gestión de Archivos en Python
 
 Proyecto desarrollado en **Python** enfocado en la manipulación de archivos del sistema operativo utilizando módulos nativos como `os` y funciones de manejo de archivos.
 
